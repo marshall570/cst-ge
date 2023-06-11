@@ -52,9 +52,9 @@ Este repositório é dedicado aos arquivos e projetos que realizei durante o Cur
 
 ## 6º SEMESTRE
 - Planejamento e Gestão Estratégica (NF 9.6)
-- Negócios Internacionais (NF 9.0)
-- Sistemas Integrados de Gestão (NF 8.5)
-- Espanhol II (NF 6.0)
-- Inglês VI (NF 4.7)
+- Negócios Internacionais (NF 8.5)
+- Sistemas Integrados de Gestão (NF 8.9)
+- Espanhol II (NF 7.7)
+- Inglês VI (NF 9.5)
 - Desenvolvimento de Negócios (NF 7.7)
-- Projeto Interdisciplinar (NF 0.0)
+- Projeto Interdisciplinar VI (NF 10.0)
